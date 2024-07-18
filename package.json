@@ -1,0 +1,33 @@
+{
+  "name": "npm-quickstart",
+  "version": "0.1.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "bin": {
+    "quickstart": "./index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "cli",
+    "js",
+    "ts",
+    "javascript",
+    "typescript",
+    "template",
+    "blank",
+    "npm-quickstart"
+  ],
+  "author": "Danial(Itzhep)",
+  "license": "MIT",
+  "description": "a cli tool to generate templates for npm package development . ",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.1.4",
+    "latest-version": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
