@@ -33,6 +33,18 @@ npm-quickstart checks for updates each time you run it. If a new version is avai
 ```bash
 A new version (x.x.x) is available. Please update using 'npm update -g npm-quickstart'
 ```
+# project stats 
+[![NPM Version](https://img.shields.io/npm/v/npm-quickstart.svg)](https://www.npmjs.com/package/npm-quickstart)
+![License](https://img.shields.io/github/license/Itzhep/npm-quickstart)
+![NPM Downloads](https://img.shields.io/npm/dm/npm-quickstart)
+
+![stars](https://img.shields.io/github/stars/Itzhep/npm-quickstart)
+![last commit](https://img.shields.io/github/last-commit/Itzhep/npm-quickstart)
+<br>
+<br>
+<br>
+[![npm](https://nodei.co/npm/npm-quickstart.png)](https://www.npmjs.com/package/npm-quickstart)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
